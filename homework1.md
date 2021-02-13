@@ -1,10 +1,9 @@
 Homework \#1 – Pet Names Dataset
 ================
-Musab Isah
+aljawhara khalid
+2021-02-13
 
-2021-02-05
-
-**Student ID:insert ID here**
+**Student ID:insert ID here** 2201001960
 
 **Deadline:** 23:59 on Saturday, 13 February 2021
 
