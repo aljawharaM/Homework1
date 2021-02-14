@@ -23,7 +23,13 @@ library(ggrepel)
 
 (4 points)
 
-Write your narrative here
+``` r
+52519
+```
+
+    ## [1] 52519
+
+Write your narrative here 52,519
 
 \`2.
 
