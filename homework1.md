@@ -1,7 +1,7 @@
 Homework \#1 – Pet Names Dataset
 ================
 aljawhara khalid
-2021-02-13
+2021-02-14
 
 **Student ID:insert ID here** 2201001960
 
@@ -29,7 +29,7 @@ library(ggrepel)
 
     ## [1] 52519
 
-Write your narrative here 52,519
+Write your narrative here
 
 \`2.
 
