@@ -35,6 +35,12 @@ Write your narrative here
 
 (4 points)
 
+``` r
+ 7
+```
+
+    ## [1] 7
+
 Write your narrative below
 
 \`3. Copy the code provided in the homework documentation and paste it
