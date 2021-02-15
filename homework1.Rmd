@@ -50,12 +50,12 @@ Write your narrative below
 (4 points)
 
 ```{r}
-
+seattlepets%>%count(animal_name,sort = TRUE)
 ```
 Write your narrative here
-
-
-
+[Lucy]
+[charlie]
+[Luna]
 `4.
 
 (10 points)
